@@ -2,6 +2,7 @@
 Prodigy InfoTech Data Science Internship Task_01
 
 
+![Uploading Screenshot 2024-11-05 at 12.07.56 PM.png…]()
 
 Task 1: Create a Bar Chart or Histogram to Visualize Population Distribution.
 
